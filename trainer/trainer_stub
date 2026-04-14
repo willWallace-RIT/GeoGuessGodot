@@ -1,0 +1,4 @@
+extends Node
+
+func train():
+    print("Training not implemented yet.")
